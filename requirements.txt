@@ -1,6 +1,0 @@
-streamlit
-opencv-python-headless
-numpy
-pandas
-ultralytics
-opencv-python-headless
